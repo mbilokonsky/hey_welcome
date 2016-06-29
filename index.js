@@ -32,8 +32,8 @@ const greetings = [
   "WELCOME!!! :) :) :)",
   "We're so glad to see you! Welcome! :)",
   "HI! Thank you for being here! :)",
-  "'Hello!' -- the world",
-  "Hello to you as well! Please make yourself at home! :)"
+  "Hello to you as well! Please make yourself at home! :)",
+  "Hi!!!"
 ];
 
 function getMessage(username) {
