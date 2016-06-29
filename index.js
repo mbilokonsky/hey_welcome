@@ -20,7 +20,7 @@ stream.on("tweet", (tweet) => {
       else { console.log("[" + username + "] - replied successfully.")};
     });
   } else {
-    console.log("Found a tweet but its text was too long:", tweet.text);
+
   }
 });
 
